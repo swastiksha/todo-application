@@ -1,18 +1,14 @@
-  
-.wrapper { 
-    
-    background-color: blanchedalmond;
+.wrapper {  
     height: 400px;
     width: 400px;
-    margin: 0 auto;
-    
+    margin: 0 auto; 
 }
 
 form {
     font-size: 20px;
     text-align: center;
-
 }
+
 .submit {
     background-color: rgb(32, 32, 179);
 }
